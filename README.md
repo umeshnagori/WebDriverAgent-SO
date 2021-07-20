@@ -1,6 +1,7 @@
 # WebDriverAgent
 
 [![GitHub license](https://img.shields.io/badge/license-BSD-lightgrey.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshnagori%2FWebDriverAgent-SO.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshnagori%2FWebDriverAgent-SO?ref=badge_shield)
 
 WebDriverAgent is a [WebDriver server](https://w3c.github.io/webdriver/webdriver-spec.html) implementation for iOS that can be used to remote control iOS devices. It allows you to launch & kill applications, tap & scroll views or confirm view presence on a screen. This makes it a perfect tool for application end-to-end testing or general purpose device automation. It works by linking `XCTest.framework` and calling Apple's API to execute commands directly on a device. WebDriverAgent is developed for end-to-end testing and is successfully adopted by [Appium](http://appium.io) via [XCUITest driver](https://github.com/appium/appium-xcuitest-driver).
 
@@ -33,6 +34,9 @@ Follow [this doc](docs/CREATING_BUNDLES.md)
 ## License
 
 [`WebDriverAgent` is BSD-licensed](LICENSE). We also provide an additional [patent grant](PATENTS).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshnagori%2FWebDriverAgent-SO.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshnagori%2FWebDriverAgent-SO?ref=badge_large)
 
 ## Third Party Sources
 
